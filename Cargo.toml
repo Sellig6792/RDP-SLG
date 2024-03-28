@@ -1,5 +1,5 @@
 [package]
-name = "Ramer-Douglas-Peucker"
+name = "rdp_slg"
 version = "0.1.0"
 edition = "2021"
 
